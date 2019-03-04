@@ -3,5 +3,5 @@ Test github pages
 
 ## how to setup dev environment
 
-  $ Some command to be used ...
+    $ Some command to be used ...
   
